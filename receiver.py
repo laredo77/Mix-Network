@@ -1,4 +1,4 @@
-# Ofir Shtrosberg, 207828641, Itamar Laredo, 311547087
+# Ofir Shtrosberg, Itamar Laredo
 import base64
 from cryptography.fernet import Fernet
 from cryptography.hazmat.primitives import hashes
